@@ -13,13 +13,13 @@ Trello | Slack</p>
 <h2>Experience</h2>
 <h3>Full Stack Software Development Intensive Bootcamp</h3> 
 <h4>School of Code | September 2023 – January 2024 | Remote, UK</h4>
-<p>• Engineered comprehensive applications, employing a versatile tech stack featuring JavaScript, CSS, 
-HTML, React, Node.js, Express and PostgreSQL.
-• Contributed to agile teams, holding daily stand ups and retros, engaging in the entire product 
+<ul><li>Engineered comprehensive applications, employing a versatile tech stack featuring JavaScript, CSS, 
+HTML, React, Node.js, Express and PostgreSQL.</li>
+<li>Contributed to agile teams, holding daily stand ups and retros, engaging in the entire product 
 development lifecycle—from ideation and design to construction. Demonstrated finished products 
-to industry experts.
-• Enhanced collaborative skills through pair programming, fostering effective teamwork, 
-communication, and problem-solving abilities.</p>
+to industry experts.</li>
+<li>Enhanced collaborative skills through pair programming, fostering effective teamwork, 
+communication, and problem-solving abilities.</li></ul>
 
 
 <!--
