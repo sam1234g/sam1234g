@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2>About Me</h2>
+<h2>About Me 👋</h2>
 <p>I’m Sam, a former theatre director turned box office assistant turned software developer. My journey is 
 defined by a love of problem-solving; from orchestrating productions to managing logistical intricacies with a customer-orientated approach, my diverse background has equipped me with a unique blend of creativity, people-skills and precision. 
 
