@@ -2,10 +2,11 @@
 
 <h2>About Me</h2>
 <p>I’m Sam, a former theatre director turned box office assistant turned software developer. My journey is 
-defined by a love of problem-solving; from orchestrating productions to managing logistical intricacies with a 
-customer-orientated approach, my diverse background has equipped me with a unique blend of creativity, 
-people-skills and precision. I bring a storyteller's mindset to coding, finding joy in unraveling complex 
-challenges, and cannot wait to bring my creative experience and analytical skills to innovative projects.</p>
+defined by a love of problem-solving; from orchestrating productions to managing logistical intricacies with a customer-orientated approach, my diverse background has equipped me with a unique blend of creativity, people-skills and precision. 
+
+During the intensive Bootcamp at School of Code, I'm diving into a tech stack that includes JavaScript, CSS, HTML. React, Node.js, Express, and PostgreSQL. I'm discovering the power of pair programming, honing my teamwork, communication, and problem-solving skills.  As part of agile teams, I'm learning the ropes of daily stand-ups and retrospectives, getting hands-on experience in the entire product development journey, from brainstorming ideas and designing to actually building applications. 
+
+I bring a storyteller's mindset to coding, finding joy in unraveling complex challenges, and cannot wait to bring my creative experience and analytical skills to innovative projects.</p>
 <h2>Skills</h2>
 <p>JavaScript | HTML5 | CSS | React | Node.js | Express | PostgreSQL | REST | Thunder Client | Jest
 React Testing Library | User Stories & Personas | Wireframing (Low & High Fidelity) | Figma | Git | GitHub
