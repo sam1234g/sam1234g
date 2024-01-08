@@ -7,7 +7,7 @@ During the intensive Bootcamp at School of Code, I'm diving into a tech stack th
 I bring a storyteller's mindset to coding, finding joy in unraveling complex problems, and cannot
 wait to bring my creative thinking and analytical skills to innovative projects.</p>
 <h2>Skills</h2>
-<p>JavaScript | HTML5 | CSS | React | Node.js | Express | PostgreSQL | REST | Thunder Client | Jest
+<p>JavaScript | HTML5 | CSS | React | Node.js | Express | PostgreSQL | REST | Thunder Client | Next.js | Tailwind CSS |
 React Testing Library | User Stories & Personas | Wireframing (Low & High Fidelity) | Figma | Git | GitHub
 Trello | Slack</p>
 <h2>Experience</h2>
